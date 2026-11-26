@@ -1,0 +1,1 @@
+{"description":"One painfully honest out-of-office auto-reply, for make.fun","license":"MIT","name":"makefun-honest-ooo-20261126","private":true,"scripts":{"start":"node main.ts","test":"node --test test.mjs"},"type":"module","version":"1.0.0"}
